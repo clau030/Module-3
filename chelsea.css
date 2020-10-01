@@ -1,0 +1,19 @@
+h1 {
+ color: darkorange;   
+}
+
+h1,
+h2,
+h3 {
+    font-family: Georgia;
+}
+
+p {
+    font-size: 15px;
+    font-family: Arial;
+    color: saddlebrown;
+}
+
+h3 {
+    font-style: italic;
+}
